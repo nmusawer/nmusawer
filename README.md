@@ -8,17 +8,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ### 🚀 Upcoming Cloud Projects
 - ⚡ **The Cloud Resume Challenge:** Building a serverless static website deployed on AWS (S3, CloudFront, Route 53, DynamoDB, API Gateway, and Python Lambda).
 - 🔒 **AWS IAM & VPC Architecture:** Hands-on network security and access management configurations.
@@ -27,4 +16,4 @@
 
 ### 📫 Connect With Me
 - **GitHub:** [github.com/nmusawer](https://github.com/nmusawer)
-- **LinkedIn:** *[https://www.linkedin.com/in/nazir-musawer/]*
+- **LinkedIn:** [linkedin.com/nazir-musawer](https://linkedin.com/in/nazir-musawer)
