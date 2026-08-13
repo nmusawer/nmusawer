@@ -1,4 +1,4 @@
-# Hi there, I'm Nazir. ! 👋
+# Hi there, I'm Nazir! 👋
 
 ### 👨‍💻 About Me
 - 🎓 **Education:** Computer Science student at PVCC, transferring to UVA (Bachelor of Interdisciplinary Studies - Cloud Solutions & Operations).
