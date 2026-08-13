@@ -13,7 +13,7 @@
 - ☁️ **Primary Focus:** Cloud Computing, Cloud Security, and DevSecOps
 - 🛠️ **Core Stack:** Python, Java, Linux CLI, Git/GitHub
 - 🎯 **Current Goal:** Preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam and building cloud infrastructure projects
-- 🌱 **Currently Learning:** AWS core services (EC2, S3, VPC, IAM), cloud security fundamentals, and infrastructure-as-code
+- 🌱 **Currently Learning:** AWS core services (EC2, S3, VPC, IAM), and cloud security fundamentals
 
 ---
 
